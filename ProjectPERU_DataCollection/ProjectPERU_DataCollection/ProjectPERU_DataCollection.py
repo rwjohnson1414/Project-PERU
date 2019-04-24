@@ -2,54 +2,50 @@ import praw
 import time
 
 start_time = time.time()
-file = open("data.txt","w")
-data = []
+repFile = open("republicanData.txt","w")
+demFile = open("democraticData.txt","w")
+republicanData = []
+democraticData = []
 
 #API Configuration: Apply Information below from Reddit to enable API
 reddit = praw.Reddit(client_id='iPfvVyGHka22BA',
                      client_secret='ed6HNahtptNuldBkduE_up753as',
                      user_agent='Python Political Predictor by /u/Snazlie',
-                     username='*****************************',
-                     password='*****************************')
+                     username='Snazlie',
+                     password='Peanut1414$$')
 
 #republican subreddits
-republican = reddit.subreddit('Republican')
-conservative = reddit.subreddit('Conservative')
-theDonald = reddit.subreddit('The_Donald')
-askAConserative = reddit.subreddit('askaconservative')
+republicans = ['Republican','Conservative','The_Donald','askaconservative']
+democrats = ['democrats','Fuckthealtright','socialism','feminism']
 
-for submission in republican.hot(limit=50):
-    submission.comment_sort = 'top'
-    comments = submission.comments
-    for comment in comments:
-        parsed_comment = comment.body
-        data.append(parsed_comment.encode('utf-8'))
+for subreddit in republicans:
+    sub = reddit.subreddit(subreddit)
+    for submission in sub.hot(limit=50):
+        submission.comment_sort = 'top'
+        submission.comments.replace_more(limit=750)
+        for comment in submission.comments:
+            parsed_comment = comment.body
+            republicanData.append(parsed_comment.encode('utf-8'))
 
-for submission in conservative.hot(limit=50):
-    submission.comment_sort = 'top'
-    comments = submission.comments
-    for comment in comments:
-        parsed_comment = comment.body
-        data.append(parsed_comment.encode('utf-8'))
+for subreddit in democrats:
+    sub = reddit.subreddit(subreddit)
+    for submission in sub.hot(limit=50):
+        submission.comment_sort = 'top'
+        submission.comments.replace_more(limit=750)
+        for comment in submission.comments:
+            parsed_comment = comment.body
+            democraticData.append(parsed_comment.encode('utf-8'))
 
-for submission in theDonald.hot(limit=50):
-    submission.comment_sort = 'top'
-    comments = submission.comments
-    for comment in comments: 
-        parsed_comment = comment.body
-        data.append(parsed_comment.encode('utf-8'))
 
-for submission in askAConserative.hot(limit=50):
-    submission.comment_sort = 'top'
-    comments = submission.comments
-    for comment in comments: 
-        parsed_comment = comment.body
-        data.append(parsed_comment.encode('utf-8'))
+rCount = 0
+for element in republicanData:
+    repFile.write(str(rCount) + ".) " + element + "\n")
+    rCount = rCount + 1
 
-i = 0
-for element in data:
-    file.write(str(i) + ".) " + element + "\n")
-    i = i + 1
+dCount = 0
+for element in democraticData:
+    demFile.write(str(dCount) + ".) " + element + "\n")
+    dCount = dCount + 1
 
 print "--- %s seconds ---" % (time.time() - start_time)
       
