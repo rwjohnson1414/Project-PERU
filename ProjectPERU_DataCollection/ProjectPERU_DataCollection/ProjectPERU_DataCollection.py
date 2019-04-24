@@ -12,11 +12,11 @@ reddit = praw.Reddit(client_id='iPfvVyGHka22BA',
                      client_secret='ed6HNahtptNuldBkduE_up753as',
                      user_agent='Python Political Predictor by /u/Snazlie',
                      username='Snazlie',
-                     password='Peanut1414$$')
+                     password='***********************************')
 
 #republican subreddits
 republicans = ['Republican','Conservative','The_Donald','askaconservative']
-democrats = ['democrats','Fuckthealtright','socialism','feminism']
+democrats = ['democrats','Fuckthealtright','Liberal','feminism']
 
 for subreddit in republicans:
     sub = reddit.subreddit(subreddit)
