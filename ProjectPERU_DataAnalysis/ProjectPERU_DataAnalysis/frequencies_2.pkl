@@ -1,0 +1,819 @@
+(dp0
+Vtake away
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'i8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p9
+tp10
+Rp11
+sVclown world
+p12
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p13
+tp14
+Rp15
+sVone thing
+p16
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p17
+tp18
+Rp19
+sVmueller report
+p20
+g2
+(g6
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p21
+tp22
+Rp23
+sVeveryone else
+p24
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+sVsanders supporters
+p28
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
+sVtwo years
+p32
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p33
+tp34
+Rp35
+sVpretty sure
+p36
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p37
+tp38
+Rp39
+sVlong time
+p40
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p41
+tp42
+Rp43
+sVsexual assault
+p44
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p45
+tp46
+Rp47
+sVeaster worshippers
+p48
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+sVcommon sense
+p52
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+sVfox news
+p56
+g2
+(g6
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p57
+tp58
+Rp59
+sVyears ago
+p60
+g2
+(g6
+S'$\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+sVmakes sense
+p64
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p65
+tp66
+Rp67
+sVmake sense
+p68
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p69
+tp70
+Rp71
+sVyear olds
+p72
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p73
+tp74
+Rp75
+sVsex positive
+p76
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p77
+tp78
+Rp79
+sVsex work
+p80
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p81
+tp82
+Rp83
+sVwell done
+p84
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+sVfar right
+p88
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p89
+tp90
+Rp91
+sVdemocratic party
+p92
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p93
+tp94
+Rp95
+sVyear old
+p96
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p97
+tp98
+Rp99
+sVsomeone else
+p100
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p101
+tp102
+Rp103
+sVsri lanka
+p104
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p105
+tp106
+Rp107
+sVbernie sanders
+p108
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+sVseth rich
+p112
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p113
+tp114
+Rp115
+sVclimate change
+p116
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p117
+tp118
+Rp119
+sVleft right
+p120
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p121
+tp122
+Rp123
+sVwant know
+p124
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p125
+tp126
+Rp127
+sVevery day
+p128
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p129
+tp130
+Rp131
+sVfull time
+p132
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p133
+tp134
+Rp135
+sVaround world
+p136
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+sVmr president
+p140
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p141
+tp142
+Rp143
+sVpart time
+p144
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p145
+tp146
+Rp147
+sVtrump supporter
+p148
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p149
+tp150
+Rp151
+sVben carson
+p152
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p153
+tp154
+Rp155
+sVmake sure
+p156
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p157
+tp158
+Rp159
+sVfree speech
+p160
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p161
+tp162
+Rp163
+sVanyone else
+p164
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+sVmen women
+p168
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p169
+tp170
+Rp171
+sVmr cohen
+p172
+g2
+(g6
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p173
+tp174
+Rp175
+sVpro choice
+p176
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p177
+tp178
+Rp179
+sVhigh school
+p180
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p181
+tp182
+Rp183
+sVpro life
+p184
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p185
+tp186
+Rp187
+sVevery time
+p188
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p189
+tp190
+Rp191
+sVmiddle east
+p192
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p193
+tp194
+Rp195
+sVhuman rights
+p196
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p197
+tp198
+Rp199
+sVsupreme court
+p200
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p201
+tp202
+Rp203
+sVunited states
+p204
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p205
+tp206
+Rp207
+sVeven though
+p208
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p209
+tp210
+Rp211
+sVgood luck
+p212
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+sVsocial media
+p216
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p217
+tp218
+Rp219
+sVfar left
+p220
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p221
+tp222
+Rp223
+sVstudent loans
+p224
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p225
+tp226
+Rp227
+sVeither way
+p228
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p229
+tp230
+Rp231
+sVbig deal
+p232
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p233
+tp234
+Rp235
+sVnew york
+p236
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p237
+tp238
+Rp239
+sVone day
+p240
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p241
+tp242
+Rp243
+sVmexican soldiers
+p244
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p245
+tp246
+Rp247
+sVpretty much
+p248
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+sVobstruction justice
+p252
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p253
+tp254
+Rp255
+sVwhite supremacist
+p256
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p257
+tp258
+Rp259
+sVwomen men
+p260
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p261
+tp262
+Rp263
+sValt right
+p264
+g2
+(g6
+S'+\x00\x00\x00\x00\x00\x00\x00'
+p265
+tp266
+Rp267
+sVmany times
+p268
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p269
+tp270
+Rp271
+sVfirst time
+p272
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p273
+tp274
+Rp275
+sVmiddle class
+p276
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p277
+tp278
+Rp279
+sVtrump supporters
+p280
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p281
+tp282
+Rp283
+sVwhite house
+p284
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p285
+tp286
+Rp287
+sVable vote
+p288
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p289
+tp290
+Rp291
+sVfucking stupid
+p292
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p293
+tp294
+Rp295
+sVilhan omar
+p296
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+sVillegal immigrants
+p300
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p301
+tp302
+Rp303
+sVlong term
+p304
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p305
+tp306
+Rp307
+sVright vote
+p308
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p309
+tp310
+Rp311
+sVgood thing
+p312
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p313
+tp314
+Rp315
+sVleft wing
+p316
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p317
+tp318
+Rp319
+sVred states
+p320
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p321
+tp322
+Rp323
+sV20 years
+p324
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+sVneo nazis
+p328
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p329
+tp330
+Rp331
+sVright wing
+p332
+g2
+(g6
+S'$\x00\x00\x00\x00\x00\x00\x00'
+p333
+tp334
+Rp335
+sVholy shit
+p336
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p337
+tp338
+Rp339
+sVtrump campaign
+p340
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p341
+tp342
+Rp343
+sVrepublican party
+p344
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p345
+tp346
+Rp347
+sVcivil rights
+p348
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p349
+tp350
+Rp351
+sVfirst place
+p352
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p353
+tp354
+Rp355
+sVdonald trump
+p356
+g2
+(g6
+S'(\x00\x00\x00\x00\x00\x00\x00'
+p357
+tp358
+Rp359
+sVevery single
+p360
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p361
+tp362
+Rp363
+sVsay anything
+p364
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p365
+tp366
+Rp367
+sVpiece shit
+p368
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p369
+tp370
+Rp371
+sVanything else
+p372
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p373
+tp374
+Rp375
+sVevery one
+p376
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p377
+tp378
+Rp379
+sVhillary clinton
+p380
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+sVneo nazi
+p384
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p385
+tp386
+Rp387
+sVpay gap
+p388
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p389
+tp390
+Rp391
+sVhot dogs
+p392
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p393
+tp394
+Rp395
+sVen wiki
+p396
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p397
+tp398
+Rp399
+sVelectoral college
+p400
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p401
+tp402
+Rp403
+sVpresident trump
+p404
+g2
+(g6
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+p405
+tp406
+Rp407
+s.

@@ -1,0 +1,819 @@
+(dp0
+Vna na na
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'i8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x06\x00\x00\x00\x00\x00\x00\x00'
+p9
+tp10
+Rp11
+sVeye eye tooth
+p12
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p13
+tp14
+Rp15
+sVill trump unqualified
+p16
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p17
+tp18
+Rp19
+sVmagazine article archived
+p20
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p21
+tp22
+Rp23
+sVneed wake fact
+p24
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+sVcowards trump democrat
+p28
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
+sVunqualified almost psychotic
+p32
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p33
+tp34
+Rp35
+sVrecently pulled guns
+p36
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p37
+tp38
+Rp39
+sVsecrets foreign powers
+p40
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p41
+tp42
+Rp43
+sVwiki efforts impeach
+p44
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p45
+tp46
+Rp47
+sVworked part time
+p48
+g2
+(g6
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+sVcaused climate change
+p52
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+sVmexicos soldiers recently
+p56
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p57
+tp58
+Rp59
+sVpulled guns national
+p60
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+sVmention word president
+p64
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p65
+tp66
+Rp67
+sVmartin luther king
+p68
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p69
+tp70
+Rp71
+sVkim jong un
+p72
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p73
+tp74
+Rp75
+sVrepublicans starting see
+p76
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p77
+tp78
+Rp79
+sVfavor starting impeachment
+p80
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p81
+tp82
+Rp83
+sVreal donald trump
+p84
+g2
+(g6
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+sVsomething along lines
+p88
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p89
+tp90
+Rp91
+sVundermining freedom press
+p92
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p93
+tp94
+Rp95
+sVsupporting trump favor
+p96
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p97
+tp98
+Rp99
+sVnational guard soldiers
+p100
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p101
+tp102
+Rp103
+sVrepublicans need wake
+p104
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p105
+tp106
+Rp107
+sVenabling trumps mental
+p108
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+sVpsychotic republicans need
+p112
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p113
+tp114
+Rp115
+sVstill supporting trump
+p116
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p117
+tp118
+Rp119
+sVradical islamic terrorists
+p120
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p121
+tp122
+Rp123
+sVtrump favor starting
+p124
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p125
+tp126
+Rp127
+sVrepublicans cowards trump
+p128
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p129
+tp130
+Rp131
+sVstarting see mentally
+p132
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p133
+tp134
+Rp135
+sVmental illness still
+p136
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+sVnever great fuck
+p140
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p141
+tp142
+Rp143
+sV2019 viewed outline
+p144
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p145
+tp146
+Rp147
+sVamerica never great
+p148
+g2
+(g6
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p149
+tp150
+Rp151
+sVhuman caused climate
+p152
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p153
+tp154
+Rp155
+sVtwo years ago
+p156
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p157
+tp158
+Rp159
+sVimpeach donald trump
+p160
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p161
+tp162
+Rp163
+sVgender pay gap
+p164
+g2
+(g6
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+sVrespect goes ways
+p168
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p169
+tp170
+Rp171
+sVtrump democrat republicans
+p172
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p173
+tp174
+Rp175
+sVstarting impeachment make
+p176
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p177
+tp178
+Rp179
+sVrepublicans using nazi
+p180
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p181
+tp182
+Rp183
+sVorange man bad
+p184
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p185
+tp186
+Rp187
+sVworking part time
+p188
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p189
+tp190
+Rp191
+sVpresident united states
+p192
+g2
+(g6
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p193
+tp194
+Rp195
+sVpart time jobs
+p196
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p197
+tp198
+Rp199
+sVrepublicans already impeached
+p200
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p201
+tp202
+Rp203
+sV16 year olds
+p204
+g2
+(g6
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p205
+tp206
+Rp207
+sValt right neo
+p208
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p209
+tp210
+Rp211
+sVhope republicans starting
+p212
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+sVtrump unqualified almost
+p216
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p217
+tp218
+Rp219
+sVstudent loan debt
+p220
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p221
+tp222
+Rp223
+sVillness still supporting
+p224
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p225
+tp226
+Rp227
+sVimpeachable offenses crimes
+p228
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p229
+tp230
+Rp231
+sVmentally ill trump
+p232
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p233
+tp234
+Rp235
+sVluther king jr
+p236
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p237
+tp238
+Rp239
+sVimproper unjustifiable purposes
+p240
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p241
+tp242
+Rp243
+sVguns national guard
+p244
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p245
+tp246
+Rp247
+sVsoldiers recently pulled
+p248
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+sVworked full time
+p252
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p253
+tp254
+Rp255
+sVevery single one
+p256
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p257
+tp258
+Rp259
+sVimpeachment make trump
+p260
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p261
+tp262
+Rp263
+sVobama use term
+p264
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p265
+tp266
+Rp267
+sVcompanies human caused
+p268
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p269
+tp270
+Rp271
+sVevery single day
+p272
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p273
+tp274
+Rp275
+sVarticle archived april
+p276
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p277
+tp278
+Rp279
+sVprofiting office conspired
+p280
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p281
+tp282
+Rp283
+sVdonald trump status
+p284
+g2
+(g6
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p285
+tp286
+Rp287
+sVtrumps mental illness
+p288
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p289
+tp290
+Rp291
+sVdemocrat republicans already
+p292
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p293
+tp294
+Rp295
+sVlong time ago
+p296
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+sVsee mentally ill
+p300
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p301
+tp302
+Rp303
+sVimpeach trump en
+p304
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p305
+tp306
+Rp307
+sVbelieve adolf hitler
+p308
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p309
+tp310
+Rp311
+sVdecluttered version slate
+p312
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p313
+tp314
+Rp315
+sVbehind closed doors
+p316
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p317
+tp318
+Rp319
+sVoct debate hey
+p320
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p321
+tp322
+Rp323
+sVslate magazine article
+p324
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+sVmr cohen said
+p328
+g2
+(g6
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p329
+tp330
+Rp331
+sVwant live world
+p332
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p333
+tp334
+Rp335
+sValmost psychotic republicans
+p336
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p337
+tp338
+Rp339
+sVmake trump resign
+p340
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p341
+tp342
+Rp343
+sVrape sexual assault
+p344
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p345
+tp346
+Rp347
+sVtruth eye eye
+p348
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p349
+tp350
+Rp351
+sVfact enabling trumps
+p352
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p353
+tp354
+Rp355
+sVcampaign finance violations
+p356
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p357
+tp358
+Rp359
+sVversion slate magazine
+p360
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p361
+tp362
+Rp363
+sVradical islamic terrorism
+p364
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p365
+tp366
+Rp367
+sVobstructed justice cover
+p368
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p369
+tp370
+Rp371
+sVsupreme court justice
+p372
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p373
+tp374
+Rp375
+sVimprisoning children families
+p376
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p377
+tp378
+Rp379
+sVunconstitutionally imprisoning children
+p380
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+sVwake fact enabling
+p384
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p385
+tp386
+Rp387
+sVundermining equal protection
+p388
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p389
+tp390
+Rp391
+sVamerican concentration camps
+p392
+g2
+(g6
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p393
+tp394
+Rp395
+sVendless failures carry
+p396
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p397
+tp398
+Rp399
+sVtwitter real donald
+p400
+g2
+(g6
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p401
+tp402
+Rp403
+sVmake feel good
+p404
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p405
+tp406
+Rp407
+s.

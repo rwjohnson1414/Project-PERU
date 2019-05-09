@@ -24,9 +24,9 @@ def extract_ngrams_sklearn(filename):
 
     # initialize CountVectorizer
     en_stopwords = set(stopwords.words('english'))
-    my_stopwords = {"like", "people", "would", "get", "us", "go", "lot", "http", "https"}
+    my_stopwords = {'like', 'people', 'would', 'get', 'us', 'go', 'lot', 'http', 'https', 'www', 'x200b', 'lol', 'com', 'youtube', 'org', 'wikipedia'}
     all_stopwords = en_stopwords.union(my_stopwords)
-    vectorizer = CountVectorizer(ngram_range=(1, 4), analyzer='word', stop_words=all_stopwords, max_features=250)
+    vectorizer = CountVectorizer(ngram_range=(3, 3), analyzer='word', stop_words=all_stopwords, max_features=100)
     # feature matrix
     X = (vectorizer.fit_transform(file_strings)).toarray()
     # list of features
@@ -38,10 +38,10 @@ def extract_ngrams_sklearn(filename):
     frequencies_dict = {f:freq for f,freq in feature_frequencies}
 
     # dump objects to files
-    save_obj_to_file(Y, "Y.pkl")
-    save_obj_to_file(features_vector, "features.pkl")
-    save_obj_to_file(X, "X.pkl")
-    save_obj_to_file(frequencies_dict, "frequencies.pkl")
+    save_obj_to_file(Y, "Y_3.pkl")
+    save_obj_to_file(features_vector, "features_3.pkl")
+    save_obj_to_file(X, "X_3.pkl")
+    save_obj_to_file(frequencies_dict, "frequencies_3.pkl")
 
 
 def save_obj_to_file(obj, filename):
@@ -58,17 +58,17 @@ def load_obj_from_file(filename):
 def main():
     extract_ngrams_sklearn("meaningfulData.txt")
 
-    features_vector = load_obj_from_file("features.pkl")
+    features_vector = load_obj_from_file("features_3.pkl")
     # print features_vector
 
-    X = load_obj_from_file("X.pkl")
+    X = load_obj_from_file("X_3.pkl")
     # print X
     print np.array(X).shape
-    Y = load_obj_from_file("Y.pkl")
+    Y = load_obj_from_file("Y_3.pkl")
     # print X
     print np.array(Y).shape
 
-    frequencies_dict = load_obj_from_file("frequencies.pkl")
+    frequencies_dict = load_obj_from_file("frequencies_3.pkl")
     # print frequencies_dict
     sorted_dict = sorted(frequencies_dict.items(), key=operator.itemgetter(1), reverse=True)
     for line in sorted_dict:

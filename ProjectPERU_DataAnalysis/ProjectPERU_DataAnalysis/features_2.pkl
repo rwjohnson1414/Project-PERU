@@ -1,0 +1,202 @@
+(lp0
+V20 years
+p1
+aVable vote
+p2
+aValt right
+p3
+aVanyone else
+p4
+aVanything else
+p5
+aVaround world
+p6
+aVben carson
+p7
+aVbernie sanders
+p8
+aVbig deal
+p9
+aVcivil rights
+p10
+aVclimate change
+p11
+aVclown world
+p12
+aVcommon sense
+p13
+aVdemocratic party
+p14
+aVdonald trump
+p15
+aVeaster worshippers
+p16
+aVeither way
+p17
+aVelectoral college
+p18
+aVen wiki
+p19
+aVeven though
+p20
+aVevery day
+p21
+aVevery one
+p22
+aVevery single
+p23
+aVevery time
+p24
+aVeveryone else
+p25
+aVfar left
+p26
+aVfar right
+p27
+aVfirst place
+p28
+aVfirst time
+p29
+aVfox news
+p30
+aVfree speech
+p31
+aVfucking stupid
+p32
+aVfull time
+p33
+aVgood luck
+p34
+aVgood thing
+p35
+aVhigh school
+p36
+aVhillary clinton
+p37
+aVholy shit
+p38
+aVhot dogs
+p39
+aVhuman rights
+p40
+aVilhan omar
+p41
+aVillegal immigrants
+p42
+aVleft right
+p43
+aVleft wing
+p44
+aVlong term
+p45
+aVlong time
+p46
+aVmake sense
+p47
+aVmake sure
+p48
+aVmakes sense
+p49
+aVmany times
+p50
+aVmen women
+p51
+aVmexican soldiers
+p52
+aVmiddle class
+p53
+aVmiddle east
+p54
+aVmr cohen
+p55
+aVmr president
+p56
+aVmueller report
+p57
+aVneo nazi
+p58
+aVneo nazis
+p59
+aVnew york
+p60
+aVobstruction justice
+p61
+aVone day
+p62
+aVone thing
+p63
+aVpart time
+p64
+aVpay gap
+p65
+aVpiece shit
+p66
+aVpresident trump
+p67
+aVpretty much
+p68
+aVpretty sure
+p69
+aVpro choice
+p70
+aVpro life
+p71
+aVred states
+p72
+aVrepublican party
+p73
+aVright vote
+p74
+aVright wing
+p75
+aVsanders supporters
+p76
+aVsay anything
+p77
+aVseth rich
+p78
+aVsex positive
+p79
+aVsex work
+p80
+aVsexual assault
+p81
+aVsocial media
+p82
+aVsomeone else
+p83
+aVsri lanka
+p84
+aVstudent loans
+p85
+aVsupreme court
+p86
+aVtake away
+p87
+aVtrump campaign
+p88
+aVtrump supporter
+p89
+aVtrump supporters
+p90
+aVtwo years
+p91
+aVunited states
+p92
+aVwant know
+p93
+aVwell done
+p94
+aVwhite house
+p95
+aVwhite supremacist
+p96
+aVwomen men
+p97
+aVyear old
+p98
+aVyear olds
+p99
+aVyears ago
+p100
+a.
