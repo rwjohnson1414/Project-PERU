@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ProjectPERU_DataAnalysis", "ProjectPERU_DataAnalysis\ProjectPERU_DataAnalysis.pyproj", "{FC8565F3-2391-4229-B218-66E7340D2DD1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Feature_Extraction", "Feature_Extraction\Feature_Extraction.pyproj", "{6A15AE40-DEE1-401F-AE9D-76576D881D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FC8565F3-2391-4229-B218-66E7340D2DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FC8565F3-2391-4229-B218-66E7340D2DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A15AE40-DEE1-401F-AE9D-76576D881D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A15AE40-DEE1-401F-AE9D-76576D881D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

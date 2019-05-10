@@ -1,25 +1,34 @@
 import pickle
-from sklearn.svm import SVR
-from sklearn.model_selection import GridSearchCV
-import numpy as np
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+import numpy as np 
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn import metrics
 
 
-def build_naive_bayes(X, y):
+
+def build_regression(X_train,X_test,y_train,y_test):
     # 10 folder cross validation to estimate the best w and b
-    svr = GridSearchCV(SVR(kernel='rbf', gamma=0.1), cv=5,
-                       param_grid={"C": [1,2]})
-    svr.fit(X, y)
+    regress = LogisticRegression()
+    regress.fit(X_train,y_train)
+    
+    predictions = regress.predict(X_test)
+    score = regress.score(X_test,y_test)
+    print score
+    w1 = regress.coef_[0,0]
+    w2 = regress.coef_[0,1]
+    b = regress.intercept_[0]
+    x = [min(item[0] for item in X_train),max(item[0] for item in X_train)]
+    y = [(-1 * w1 * i -1 * b) / w2 for i in x]
 
-    print "Best accuracy: "
-    print svr.best_score_
+   #TODO: split into Pos & Neg classes for visualization
 
-    return svr
+    plt.scatter(X_test[:,0], y_test,  color='black')
+    plt.plot(x, y, label= 'Logistic Regression', color='red')
 
-
-def save_obj_to_file(obj, filename):
-    with open(filename, 'wb') as out_file:
-        pickle.dump(obj, out_file)
-
+    plt.legend()
+    plt.show()
 
 def load_obj_from_file(filename):
     with open(filename, 'rb') as in_file:
@@ -30,7 +39,11 @@ def load_obj_from_file(filename):
 def main():
     X = load_obj_from_file("X.pkl")
     Y = load_obj_from_file("Y.pkl")
-    build_naive_bayes(X, Y)
+    
+    X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=0.33,random_state=50)
+
+    build_regression(X_train,X_test,y_train,y_test)
+
 
 
 if __name__ == '__main__':

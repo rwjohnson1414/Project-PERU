@@ -1,0 +1,819 @@
+(dp0
+Vthe fact that
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'i8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'/\x00\x00\x00\x00\x00\x00\x00'
+p9
+tp10
+Rp11
+sVthe democratic party
+p12
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p13
+tp14
+Rp15
+sVif you re
+p16
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p17
+tp18
+Rp19
+sVto vote for
+p20
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p21
+tp22
+Rp23
+sVis going to
+p24
+g2
+(g6
+S'%\x00\x00\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+sVwe have to
+p28
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
+sVbecause they are
+p32
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p33
+tp34
+Rp35
+sVthis is why
+p36
+g2
+(g6
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p37
+tp38
+Rp39
+sVto do with
+p40
+g2
+(g6
+S'\x1f\x00\x00\x00\x00\x00\x00\x00'
+p41
+tp42
+Rp43
+sVat the same
+p44
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p45
+tp46
+Rp47
+sVthe first place
+p48
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+sVall the time
+p52
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+sVused to be
+p56
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p57
+tp58
+Rp59
+sVis the only
+p60
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+sVin the face
+p64
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p65
+tp66
+Rp67
+sVit will be
+p68
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p69
+tp70
+Rp71
+sVif you don
+p72
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p73
+tp74
+Rp75
+sVall of this
+p76
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p77
+tp78
+Rp79
+sVat this point
+p80
+g2
+(g6
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p81
+tp82
+Rp83
+sVwant to be
+p84
+g2
+(g6
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+sVin the same
+p88
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p89
+tp90
+Rp91
+sVas long as
+p92
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p93
+tp94
+Rp95
+sVis one of
+p96
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p97
+tp98
+Rp99
+sVone of them
+p100
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p101
+tp102
+Rp103
+sVof the most
+p104
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p105
+tp106
+Rp107
+sVshould be able
+p108
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+sVif you are
+p112
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p113
+tp114
+Rp115
+sVthey re not
+p116
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p117
+tp118
+Rp119
+sVthe time you
+p120
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p121
+tp122
+Rp123
+sVnot going to
+p124
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p125
+tp126
+Rp127
+sVyou need to
+p128
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p129
+tp130
+Rp131
+sVthe white house
+p132
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p133
+tp134
+Rp135
+sVas well as
+p136
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+sVthe same time
+p140
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p141
+tp142
+Rp143
+sVin order to
+p144
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p145
+tp146
+Rp147
+sVup to the
+p148
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p149
+tp150
+Rp151
+sVon the right
+p152
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p153
+tp154
+Rp155
+sVone of the
+p156
+g2
+(g6
+S'8\x00\x00\x00\x00\x00\x00\x00'
+p157
+tp158
+Rp159
+sVthe united states
+p160
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p161
+tp162
+Rp163
+sVpart of the
+p164
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+sVright to vote
+p168
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p169
+tp170
+Rp171
+sVyou have to
+p172
+g2
+(g6
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p173
+tp174
+Rp175
+sVsome of the
+p176
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p177
+tp178
+Rp179
+sVand should be
+p180
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p181
+tp182
+Rp183
+sVhave to be
+p184
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p185
+tp186
+Rp187
+sVnothing to do
+p188
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p189
+tp190
+Rp191
+sVneeds to be
+p192
+g2
+(g6
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+p193
+tp194
+Rp195
+sVit is not
+p196
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p197
+tp198
+Rp199
+sVthere is no
+p200
+g2
+(g6
+S'-\x00\x00\x00\x00\x00\x00\x00'
+p201
+tp202
+Rp203
+sVin the world
+p204
+g2
+(g6
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+p205
+tp206
+Rp207
+sVthink this is
+p208
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p209
+tp210
+Rp211
+sVsupposed to be
+p212
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+sVthey need to
+p216
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p217
+tp218
+Rp219
+sVthey want to
+p220
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p221
+tp222
+Rp223
+sVthe right to
+p224
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p225
+tp226
+Rp227
+sVthe rest of
+p228
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p229
+tp230
+Rp231
+sVneed to be
+p232
+g2
+(g6
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p233
+tp234
+Rp235
+sVnot all men
+p236
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p237
+tp238
+Rp239
+sVthe left is
+p240
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p241
+tp242
+Rp243
+sVthey have to
+p244
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p245
+tp246
+Rp247
+sVyou don have
+p248
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+sVthis is what
+p252
+g2
+(g6
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p253
+tp254
+Rp255
+sVall of the
+p256
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p257
+tp258
+Rp259
+sVmen and women
+p260
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p261
+tp262
+Rp263
+sVare going to
+p264
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p265
+tp266
+Rp267
+sVdon have to
+p268
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p269
+tp270
+Rp271
+sVbut if you
+p272
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p273
+tp274
+Rp275
+sVthat you re
+p276
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p277
+tp278
+Rp279
+sVwhat kind of
+p280
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p281
+tp282
+Rp283
+sVthis is an
+p284
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p285
+tp286
+Rp287
+sVthe same as
+p288
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p289
+tp290
+Rp291
+sVwe need to
+p292
+g2
+(g6
+S'4\x00\x00\x00\x00\x00\x00\x00'
+p293
+tp294
+Rp295
+sVmore and more
+p296
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+sVyou want to
+p300
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p301
+tp302
+Rp303
+sVyou re not
+p304
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p305
+tp306
+Rp307
+sVbe able to
+p308
+g2
+(g6
+S'4\x00\x00\x00\x00\x00\x00\x00'
+p309
+tp310
+Rp311
+sVwe all know
+p312
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p313
+tp314
+Rp315
+sVmost of the
+p316
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p317
+tp318
+Rp319
+sVas much as
+p320
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p321
+tp322
+Rp323
+sVpiece of shit
+p324
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+sVdon want to
+p328
+g2
+(g6
+S' \x00\x00\x00\x00\x00\x00\x00'
+p329
+tp330
+Rp331
+sVthe mueller report
+p332
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p333
+tp334
+Rp335
+sVin the first
+p336
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p337
+tp338
+Rp339
+sVlook at the
+p340
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p341
+tp342
+Rp343
+sVthat they are
+p344
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p345
+tp346
+Rp347
+sVit should be
+p348
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p349
+tp350
+Rp351
+sVhave to do
+p352
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p353
+tp354
+Rp355
+sVthis is the
+p356
+g2
+(g6
+S'+\x00\x00\x00\x00\x00\x00\x00'
+p357
+tp358
+Rp359
+sVthat this is
+p360
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p361
+tp362
+Rp363
+sVwhat the fuck
+p364
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p365
+tp366
+Rp367
+sVthe will of
+p368
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p369
+tp370
+Rp371
+sVare trying to
+p372
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p373
+tp374
+Rp375
+sVthat they can
+p376
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p377
+tp378
+Rp379
+sVbut it is
+p380
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+sVgoing to be
+p384
+g2
+(g6
+S'\x1f\x00\x00\x00\x00\x00\x00\x00'
+p385
+tp386
+Rp387
+sVout of the
+p388
+g2
+(g6
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p389
+tp390
+Rp391
+sVto pay for
+p392
+g2
+(g6
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p393
+tp394
+Rp395
+sVto have sex
+p396
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p397
+tp398
+Rp399
+sVthe same thing
+p400
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p401
+tp402
+Rp403
+sVto be the
+p404
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p405
+tp406
+Rp407
+s.
