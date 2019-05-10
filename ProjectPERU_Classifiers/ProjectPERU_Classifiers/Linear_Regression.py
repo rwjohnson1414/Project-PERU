@@ -21,13 +21,22 @@ def build_regression(X_train,X_test,y_train,y_test):
     b = regress.intercept_[0]
     x = [min(item[0] for item in X_train),max(item[0] for item in X_train)]
     y = [(-1 * w1 * i -1 * b) / w2 for i in x]
+    cm = metrics.confusion_matrix(y_test, predictions)
 
    #TODO: split into Pos & Neg classes for visualization
 
-    plt.scatter(X_test[:,0], y_test,  color='black')
-    plt.plot(x, y, label= 'Logistic Regression', color='red')
+    #plt.scatter(X_test[:,0], y_test,  color='black')
+    #plt.plot(x, y, label= 'Logistic Regression', color='red')
 
-    plt.legend()
+    #plt.legend()
+    #plt.show()
+
+    plt.figure(figsize=(9,9))
+    sns.heatmap(cm, annot=True, fmt=".3f", linewidths=.5, square = True, cmap = 'Blues_r');
+    plt.ylabel('Actual label');
+    plt.xlabel('Predicted label');
+    all_sample_title = 'Accuracy Score: {0}'.format(score)
+    plt.title(all_sample_title, size = 15)
     plt.show()
 
 def load_obj_from_file(filename):
