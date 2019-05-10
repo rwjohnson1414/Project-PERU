@@ -37,7 +37,7 @@ def load_obj_from_file(filename):
 
 
 def main():
-    X = load_obj_from_file("X.pkl")
+    X = load_obj_from_file("X_all.pkl")
     Y = load_obj_from_file("Y.pkl")
     
     X_train,X_test,y_train,y_test = train_test_split(X,Y,test_size=0.33,random_state=50)

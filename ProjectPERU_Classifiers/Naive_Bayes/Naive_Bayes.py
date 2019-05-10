@@ -36,8 +36,8 @@ def load_obj_from_file(filename):
 
 
 def main():
-    X = load_obj_from_file("X_3.pkl")
-    Y = load_obj_from_file("Y_3.pkl")
+    X = load_obj_from_file("X_all.pkl")
+    Y = load_obj_from_file("Y.pkl")
     build_naive_bayes(X, Y)
 
 
