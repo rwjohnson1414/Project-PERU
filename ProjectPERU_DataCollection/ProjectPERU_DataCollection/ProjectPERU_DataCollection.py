@@ -11,8 +11,8 @@ democraticData = []
 reddit = praw.Reddit(client_id='iPfvVyGHka22BA',
                      client_secret='ed6HNahtptNuldBkduE_up753as',
                      user_agent='Python Political Predictor by /u/Snazlie',
-                     username='Snazlie',
-                     password='Peanut1414$$')
+                     username='*************************',
+                     password='*************************')
 
 #republican/democratic subreddits
 republicans = ['Republican','Conservative','The_Donald','askaconservative']

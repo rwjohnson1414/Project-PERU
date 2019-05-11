@@ -12,7 +12,7 @@ def build_regression(X_train,X_test,y_train,y_test):
     # 10 folder cross validation to estimate the best w and b
     regress = LogisticRegression()
     regress.fit(X_train,y_train)
-    
+
     predictions = regress.predict(X_test)
     score = regress.score(X_test,y_test)
     print score
