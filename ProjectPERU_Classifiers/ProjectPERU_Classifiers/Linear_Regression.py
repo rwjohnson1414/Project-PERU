@@ -15,7 +15,8 @@ def build_regression(X_train,X_test,y_train,y_test):
 
     predictions = regress.predict(X_test)
     score = regress.score(X_test,y_test)
-    print score
+    print("Best accuracy: ")
+    print (score)
     w1 = regress.coef_[0,0]
     w2 = regress.coef_[0,1]
     b = regress.intercept_[0]
